@@ -1,0 +1,5 @@
+{
+  "name": "Module Content Quality Analysis",
+  "description": "Compare feedback from two teaching periods for a single module to get an AI-powered comparative analysis of content themes, strengths, and areas for improvement.",
+  "requestFramePermissions": []
+}
